@@ -253,6 +253,35 @@ export const ui = {
           'Description of challenges encountered while creating this sample project.',
         learnings: 'Description of learnings from this sample project.',
       },
+      testProject: {
+        title: 'First test project',
+        description: 'This is my first project for the website',
+        imageAltText: 'first test image',
+        categoryText: 'Website',
+        dateText: 'June 2025',
+        detailedDescription:
+          'This website has been created using Astro and GitHub Pages/Actions.',
+        keyFeatures: {
+          responsiveDesign: {
+            title: 'Easy template design',
+            description: 'The project adapts to all screen sizes.',
+          },
+          contentManagement: {
+            title: 'Easy Content Management',
+            description:
+              'Allows for easy content management via Markdown files or a CMS.',
+          },
+        },
+        galleryImages: {
+          // sampleGalleryImage1: { // If you enable gallery for the example
+          //   alt: 'Alt text for gallery image 1',
+          //   caption: 'Caption for gallery image 1',
+          // },
+        },
+        challenges:
+          'Description of challenges encountered while creating this sample project.',
+        learnings: 'I have definitely learnt stuff while building this website.',
+      }
     },
     skillsContent: {
       frontendDevelopment: {

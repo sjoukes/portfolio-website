@@ -1,0 +1,3 @@
+to edit photos on the home page go to src/features/projects/screens/homescreen.astro 
+files are stored in src/assets 
+editing text on main screen is usually done from src/i18n/ui.ts 
