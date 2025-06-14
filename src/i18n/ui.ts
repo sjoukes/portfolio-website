@@ -224,35 +224,6 @@ export const ui = {
   },
   en: {
     projectsContent: {
-      sampleProject: {
-        title: 'Sample Project',
-        description: 'This is a sample project for the template.',
-        imageAltText: 'Placeholder image for the sample project',
-        categoryText: 'Web Application',
-        dateText: 'January 2025',
-        detailedDescription:
-          'A more detailed description of this sample project, showing how to structure content for the project detail page.',
-        keyFeatures: {
-          responsiveDesign: {
-            title: 'Responsive Design',
-            description: 'The project adapts to all screen sizes.',
-          },
-          contentManagement: {
-            title: 'Easy Content Management',
-            description:
-              'Allows for easy content management via Markdown files or a CMS.',
-          },
-        },
-        galleryImages: {
-          // sampleGalleryImage1: { // If you enable gallery for the example
-          //   alt: 'Alt text for gallery image 1',
-          //   caption: 'Caption for gallery image 1',
-          // },
-        },
-        challenges:
-          'Description of challenges encountered while creating this sample project.',
-        learnings: 'Description of learnings from this sample project.',
-      },
       //
       portfolioWebsite: {
         title: 'Creating this Website',

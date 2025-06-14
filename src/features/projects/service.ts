@@ -10,34 +10,6 @@ import type {
 } from './type';
 
 const projectsListUnsorted: Array<ProjectData> = [
-  {
-    id: 'sampleProject', // Unique identifier for translations
-    slug: 'sample-project', // Used in the URL
-    imageUrl: placeholderImage, // Use imported ImageMetadata
-    // projectUrl: '#', // Optional: Link to the live project
-    // codeUrl: '#', // Optional: Link to the source code
-    tags: ['Astro', 'TypeScript', 'Template'], // Generic tags
-    category: 'Web Application', // Generic category
-    date: '2024-01-01', // Generic date
-    galleryImages: [
-      // Optional: Gallery images for the project
-      // {
-      //   id: 'sampleGalleryImage1',
-      //   src: placeholderImage, // Placeholder, needs ImageMetadata
-      // },
-    ],
-    keyFeatures: [
-      // Key features (IDs for translation)
-      { id: 'responsiveDesign' },
-      { id: 'contentManagement' },
-    ],
-    technologiesUsed: [
-      // Technologies used (IDs for display)
-      { id: 'astro', name: 'Astro' },
-      { id: 'typescript', name: 'TypeScript' },
-      { id: 'tailwindcss', name: 'TailwindCSS' },
-    ],
-  },
   // 
   {
     id: 'portfolioWebsite', // Unique identifier for translations
@@ -47,7 +19,7 @@ const projectsListUnsorted: Array<ProjectData> = [
     // codeUrl: '#', // Optional: Link to the source code
     tags: ['Astro', 'TypeScript', 'GitHub Pages/Actions'], // Generic tags
     category: 'Website', // Generic category
-    date: '2025-01-01', // Generic date
+    date: '2025-14-06', // Generic date
     galleryImages: [
       // Optional: Gallery images for the project
       // {
