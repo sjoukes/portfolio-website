@@ -1,3 +1,5 @@
 to edit photos on the home page go to src/features/projects/screens/homescreen.astro 
 files are stored in src/assets 
 editing text on main screen is usually done from src/i18n/ui.ts 
+define a new project and its details in ui.ts and then do more stuff in service.ts 
+add to the top of the array in service.ts array so it organises the projects properly 

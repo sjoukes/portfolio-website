@@ -318,7 +318,7 @@ export const ui = {
       rights: 'All rights reserved.',
     },
     homePage: {
-      pageTitle: 'Home | YOUR_NAME - FullStack Developer',
+      pageTitle: 'Home | Sjouke Sullivan - IT Support Officer',
       pageDescription:
         'Welcome to the portfolio of YOUR_NAME, a FullStack developer passionate about creating innovative web experiences.',
       heroGreeting: "Hi, I'm Sjouke",
