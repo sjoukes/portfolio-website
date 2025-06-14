@@ -292,15 +292,15 @@ export const ui = {
       pageTitle: 'Home | YOUR_NAME - FullStack Developer',
       pageDescription:
         'Welcome to the portfolio of YOUR_NAME, a FullStack developer passionate about creating innovative web experiences.',
-      heroGreeting: "Hi, I'm YOUR_NAME",
-      heroSubtitlePart1: 'Full Stack Developer',
-      heroSubtitlePart2: 'UI/UX Enthusiast',
-      heroIntroduction: 'Add an introduction here.',
+      heroGreeting: "Hi, I'm Sjouke",
+      heroSubtitlePart1: 'IT Support Officer',
+      heroSubtitlePart2: 'Home Labs Enthusiast',
+      heroIntroduction: 'I am an Information Technology student currently working full-time in an IT support office role. I’m passionate about home labbing and enjoy exploring networking, cloud engineering, and the infrastructure that powers modern tech. This site is where I share my projects, experiments, and ideas as I learn and grow in the field.',
       heroViewWorkButton: 'View My Work',
       heroContactButton: 'Get In Touch',
       heroImageAlt:
         'Illustration representing YOUR_NAME or a development concept',
-      featuredProjectsTitle: '3 latest projects',
+      featuredProjectsTitle: 'My latest projects',
       featuredProjectsDescription:
         "Here are some of the projects I've recently worked on. Feel free to explore!",
       projectCardViewProject: 'View Project',
