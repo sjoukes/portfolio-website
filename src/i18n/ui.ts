@@ -416,8 +416,8 @@ export const ui = {
     },
     projectsPage: {
       title: 'My Projects',
-      metaTitle: "My Projects | YOUR_NAME's Portfolio",
-      metaDescription: "Discover all of YOUR_NAME's projects.",
+      metaTitle: "My Projects | Sjouke Sullivan's Portfolio",
+      metaDescription: "Discover all of Sjouke Sullivan's projects.",
       noProjects: 'No projects to display at the moment.',
       noProjectsDescription:
         "It seems that you don't have any projects to display at the moment.",
