@@ -18,7 +18,7 @@ const projectsListUnsorted: Array<ProjectData> = [
     // codeUrl: '#', // Optional: Link to the source code
     tags: ['Astro', 'TypeScript', 'Template'], // Generic tags
     category: 'Web Application', // Generic category
-    date: '2025-01-01', // Generic date
+    date: '2024-01-01', // Generic date
     galleryImages: [
       // Optional: Gallery images for the project
       // {
@@ -47,7 +47,7 @@ const projectsListUnsorted: Array<ProjectData> = [
     // codeUrl: '#', // Optional: Link to the source code
     tags: ['Astro', 'TypeScript', 'GitHub Pages/Actions'], // Generic tags
     category: 'Website', // Generic category
-    date: '2024-01-01', // Generic date
+    date: '2025-01-01', // Generic date
     galleryImages: [
       // Optional: Gallery images for the project
       // {
