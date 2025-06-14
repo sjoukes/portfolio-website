@@ -254,7 +254,7 @@ export const ui = {
         learnings: 'Description of learnings from this sample project.',
       },
       //
-      testProject: {
+      portfolioWebsite: {
         title: 'Creating this Website',
         description: 'The process of creating this website',
         imageAltText: 'astro logo',
