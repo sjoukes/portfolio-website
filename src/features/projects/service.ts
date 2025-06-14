@@ -1,6 +1,7 @@
 // Import i18n utilities
 import { ui, defaultLanguage, type LanguageCode } from '@/i18n/ui';
 import placeholderImage from '@/assets/placeholder.webp';
+import astrologo from '@/assets/astro.jpg';
 import type {
   ProjectData,
   SkillData,
@@ -37,10 +38,11 @@ const projectsListUnsorted: Array<ProjectData> = [
       { id: 'tailwindcss', name: 'TailwindCSS' },
     ],
   },
+  // 
   {
     id: 'testProject', // Unique identifier for translations
     slug: 'test-project', // Used in the URL
-    imageUrl: placeholderImage, // Use imported ImageMetadata
+    imageUrl: astrologo, // Use imported ImageMetadata
     // projectUrl: '#', // Optional: Link to the live project
     // codeUrl: '#', // Optional: Link to the source code
     tags: ['Astro', 'TypeScript', 'Template'], // Generic tags
