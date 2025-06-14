@@ -304,7 +304,7 @@ export const ui = {
       },
     },
     site: {
-      title: 'My Awesome Template',
+      title: 'Sjouke Sullivan',
       description:
         'A modern and performant Astro template to kickstart your project.',
     },
