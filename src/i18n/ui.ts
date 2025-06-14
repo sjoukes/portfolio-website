@@ -253,10 +253,11 @@ export const ui = {
           'Description of challenges encountered while creating this sample project.',
         learnings: 'Description of learnings from this sample project.',
       },
+      //
       testProject: {
-        title: 'First test project',
-        description: 'This is my first project for the website',
-        imageAltText: 'first test image',
+        title: 'Creating this Website',
+        description: 'The process of creating this website',
+        imageAltText: 'astro logo',
         categoryText: 'Website',
         dateText: 'June 2025',
         detailedDescription:

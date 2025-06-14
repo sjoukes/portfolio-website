@@ -40,13 +40,13 @@ const projectsListUnsorted: Array<ProjectData> = [
   },
   // 
   {
-    id: 'testProject', // Unique identifier for translations
-    slug: 'test-project', // Used in the URL
+    id: 'portfolioWebsite', // Unique identifier for translations
+    slug: 'portfolio-website', // Used in the URL
     imageUrl: astrologo, // Use imported ImageMetadata
     // projectUrl: '#', // Optional: Link to the live project
     // codeUrl: '#', // Optional: Link to the source code
-    tags: ['Astro', 'TypeScript', 'Template'], // Generic tags
-    category: 'Web Application', // Generic category
+    tags: ['Astro', 'TypeScript', 'GitHub Pages/Actions'], // Generic tags
+    category: 'Website', // Generic category
     date: '2025-14-06', // Generic date
     galleryImages: [
       // Optional: Gallery images for the project
